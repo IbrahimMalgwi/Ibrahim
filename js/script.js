@@ -26,12 +26,12 @@ window.onscroll = () => {
     });
 
     
-let header = document.querySelector("header");
+    let header = document.querySelector("header");
 
-header.classList.toggle("sticky", window.scrollY > 100);
+    header.classList.toggle("sticky", window.scrollY > 100);
 
-menuIcon.classList.remove('bx-x');
-navIcon.classList.remove('active');
+    menuIcon.classList.remove('bx-x');
+    navIcon.classList.remove('active');
 
 };
 

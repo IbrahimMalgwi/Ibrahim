@@ -243,7 +243,7 @@ span {
     margin: 1rem 0 3rem;
 }
 
-/* Skills */
+/* ---------- Skills ----------- */
 .skills h2 {
     margin-bottom: 5rem;
 }
@@ -363,6 +363,8 @@ span {
     font-size: 2rem;
     color: var(--second-bg-color);
 }
+
+/*-------------------  Contact  -------------------*/
 
 .contact h2 {
     margin-bottom: 3rem;
